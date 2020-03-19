@@ -5,7 +5,7 @@ inputs:
   path:  
     description: 'The path, relative from root of the project, to the packages'
     required: false
-    default: 'src'
+    default: '.'
 outputs:
   artifact-path:
     description: 'The location of the generated files.'
