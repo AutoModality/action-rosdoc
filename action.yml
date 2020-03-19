@@ -1,5 +1,5 @@
 # see package.yml for usage 
-name: 'ROS Doc'
+name: 'ROS Docs'
 description: 'Documentation generation for ROS Projects'
 inputs:
   path:  
