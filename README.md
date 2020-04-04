@@ -21,7 +21,7 @@ jobs:
         uses: AutoModality/action-rosdoc@v1
 ```
 
-See [action.yml] for options.
+See [action.yml](action.yml) for options.
 
 
 ## Examples
