@@ -1,5 +1,5 @@
 # see package.yml for usage 
-name: 'ROS Doc'
+name: 'ROS Docs'
 description: 'Documentation generation for ROS Projects'
 branding:
   icon: code
@@ -8,7 +8,7 @@ inputs:
   path:  
     description: 'The path, relative from root of the project, to the packages'
     required: false
-    default: 'src'
+    default: '.'
 outputs:
   artifact-path:
     description: 'The location of the generated files.'

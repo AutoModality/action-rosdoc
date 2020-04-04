@@ -1,7 +1,7 @@
 #!/bin/bash
 
-docs_path=docs
-src_path=${1:-src}
+docs_path=doc
+src_path=${1:-"."}
 
 source /opt/ros/melodic/setup.bash
 
