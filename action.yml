@@ -1,6 +1,9 @@
 # see package.yml for usage 
 name: 'ROS Doc'
 description: 'Documentation generation for ROS Projects'
+branding:
+  icon: code
+  color: blue
 inputs:
   path:  
     description: 'The path, relative from root of the project, to the packages'
@@ -15,4 +18,3 @@ runs:
   image: 'Dockerfile'
   args: # see entrypoint.sh for the recipient of these - order matters
     - ${{ inputs.path }}
-
