@@ -1,4 +1,4 @@
-# action_rosdoc
+# ROSDoc Github Action
 Documentation generation for ROS projects.
 
 
