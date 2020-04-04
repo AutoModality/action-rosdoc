@@ -1,5 +1,5 @@
 # ROSDoc Github Action
-Documentation generation for ROS projects.
+Documentation generation for ROS projects using [ROSDOC Lite](http://wiki.ros.org/rosdoc_lite).
 
 
 
